@@ -11,3 +11,19 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+div a{
+  text-decoration: none;
+}
+
+.btn {
+  color: #fff;
+  background-color: #333;
+  border-radius: 8px;
+  padding: 0.4em 0.75em 0.3em;
+  border-width: 3px;
+}
+
+.btn:hover {
+  background-color: #000;
+}
